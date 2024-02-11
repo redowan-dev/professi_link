@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "profesi Link",
+    "slug": "profesiLink",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/profesilink.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.jobportal.profesilink"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9544882c-7859-48a7-b6ab-89d2773a6e7c"
+      }
+    }
+  }
+}
